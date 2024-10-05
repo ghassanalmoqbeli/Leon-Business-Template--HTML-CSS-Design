@@ -10,7 +10,7 @@ This is a simple and modern responsive HTML/CSS template suitable for building w
 ## Usage:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gh66an/HTML-CSS-Template
+   git clone https://github.com/gh66an/HTML-CSS-Template.git
    ```
 2. Open `index.html` in your browser to view the template.
 
