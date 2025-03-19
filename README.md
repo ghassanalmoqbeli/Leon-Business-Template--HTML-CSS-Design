@@ -3,7 +3,7 @@
 This is a simple and modern responsive HTML/CSS template suitable for building web projects. It is designed to work seamlessly on different screen sizes.
 
 ## Live Demo
-You can view the live demo of the template at: [Leon Business Template](https://gh66an.github.io/Leon-Business-Template--HTML-CSS-Design/)
+You can view the live demo of the template at: [Leon Business Template](https://ghassanalmoqbeli.github.io/Leon-Business-Template--HTML-CSS-Design/)
 
 ## Features:
 - Fully responsive layout.
